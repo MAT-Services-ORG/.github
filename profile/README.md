@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>MAT <a href="https://mat-services.github.io">Services.ORG</a> – Services numériques communautaires et open source</h1>
+    <h1><a href="https://mat-services.github.io">MAT Services.ORG</a> – Services numériques communautaires et open source</h1>
     MAT Services est une organisation indépendante et une communauté de passionnés dédiée à la création de solutions logicielles variées : sites web, applications utilitaires, jeux vidéo, outils d'apprentissage, et autres logiciels à visée pratique ou ludique.
 
   Nous concevons des services à destination :
