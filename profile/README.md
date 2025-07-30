@@ -1,22 +1,24 @@
-# [MAT Services.ORG](https://mat-services.github.io) Services numériques communautaires et open source 
+# [MAT Services.ORG](https://mat-services.github.io) Community and open source digital services.
 ![Header](https://mat-services-org.github.io/.github/ezgif-72b87ad6c0c910.gif)
 
-MAT Services est une organisation indépendante et une communauté de passionnés dédiée à la création de solutions logicielles variées : sites web, applications utilitaires, jeux vidéo, outils d'apprentissage, et autres logiciels à visée pratique ou ludique.
+## Who are we?
 
-  Nous concevons des services à destination :
+MAT Services is an independent organization and a community of enthusiasts dedicated to creating various software solutions: websites, utility applications, video games, learning tools, and other software for practical or recreational purposes.
+
+  We design services for:
   
-  - des utilisateurs à la recherche d'outils simples et efficaces,
+  - users looking for simple and effective tools,
   
-  - des développeurs souhaitant gagner en productivité,
+  - developers wishing to improve their productivity,
   
-  - des amateurs de jeux curieux de découvrir des créations originales,
+  - curious game enthusiasts eager to discover original creations,
   
-  - et de toute personne ayant besoin d’assistance, de conseils ou d'inspiration.
+  - and of anyone in need of assistance, advice or inspiration.
   
-  Nous nous engageons à proposer des projets principalement open source, développés avec passion et dans un esprit de collaboration.
-  Certaines fonctionnalités ou projets peuvent également être réalisés sur suggestion, selon nos capacités et les valeurs de notre communauté.
+  We are committed to offering projects primarily open source, developed with passion and in a spirit of collaboration. 
+  Some features or projects may also be carried out based on suggestions, depending on our capabilities and the values of our community.
   
-  **Notre mission : rendre le numérique accessible, utile, ludique, et par dessu tout construit ensemble.**
+  **Our mission: to make digital technology accessible, useful, playful, and above all, built together.**
  
 <!--
 
