@@ -19,7 +19,10 @@ MAT Services is an independent organization and a community of enthusiasts dedic
   Some features or projects may also be carried out based on suggestions, depending on our capabilities and the values of our community.
   
   **Our mission: to make digital technology accessible, useful, playful, and above all, built together.**
- 
+## Community
+### Fans of:
+The most of us are fans of Minecraft. That an incredible game where we can does everithing. The only limit is your imagination. (And your PC performance...😅)
+![Minecraft]()
 <!--
 
 **Here are some ideas to get you started:**
