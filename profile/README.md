@@ -22,6 +22,7 @@ MAT Services is an independent organization and a community of enthusiasts dedic
 ## Community
 ### Fans of:
 The most of us are fans of Minecraft. That an incredible game where we can does everithing. The only limit is your imagination. (And your PC performance...😅)
+
 ![Minecraft](https://mat-services-org.github.io/.github/cube.gif)
 <!--
 
