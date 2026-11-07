@@ -20,8 +20,10 @@ MAT Services is an independent organization and a community (actually mostly ent
   Some features or projects may also be carried out based on suggestions, depending on our capabilities and the values of our community.
   
   **Our mission: to make digital technology accessible, useful, playful, and above all, built together.**
-  
-```© 2017-2026 MAT Services. All rights reserved.```
+
+---
+
+© 2017-2026 MAT Services. [All rights reserved](https://mat-services.freeddns.org/legal/).
 
 <img width="1000" height="500" alt="MAT Products" src="https://github.com/user-attachments/assets/9ea67f2e-f3d1-494b-8111-e7d41d000de8" />
 <!--
