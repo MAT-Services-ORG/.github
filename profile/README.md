@@ -1,10 +1,10 @@
-# [MAT Services.ORG](https://mat-services.github.io) Community and open source digital services.
+# [MAT Services.ORG](https://mat-services.github.io) Organisation for digital services.
 ![Header](https://mat-services-org.github.io/.github/ezgif-72b87ad6c0c910.gif)
 
 
 ## Who are we?
 
-MAT Services is an independent organization and a community of enthusiasts dedicated to creating various software solutions: websites, utility applications, video games, learning tools, and other software for practical or recreational purposes.
+MAT Services is an independent organization and a community (actually mostly enthusiasts) dedicated to creating various filaires, including software solutions: websites, utility applications, video games, learning tools, and other software for practical or recreational purposes.
 
   We design services for:
   
@@ -20,13 +20,8 @@ MAT Services is an independent organization and a community of enthusiasts dedic
   Some features or projects may also be carried out based on suggestions, depending on our capabilities and the values of our community.
   
   **Our mission: to make digital technology accessible, useful, playful, and above all, built together.**
-## Community
-### Fans of:
-The most of us are fans of Minecraft. That an incredible game where we can does everithing. The only limit is your imagination. (And your PC performance...😅)
-
-![Minecraft](https://mat-services-org.github.io/.github/cube.gif)
-
-```MAT SERVICES 2025```
+  
+```© 2017-2026 MAT Services. All rights reserved.```
 
 <img width="1000" height="500" alt="MAT Products" src="https://github.com/user-attachments/assets/9ea67f2e-f3d1-494b-8111-e7d41d000de8" />
 <!--
